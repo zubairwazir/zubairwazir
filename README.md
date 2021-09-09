@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zubairwazir
-- 👀 I’m interested in ## python Flask web programming and machine learning and deep learning Models.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zubair Ahamd Khan, I am Software Engineer graduated from UET Peshawar in 2021.
+- 👀 I’m interested in ## python Flask web programming and machine learning/deep learning.
+- 🌱 I’m currently learning Flask Api and Also researching on Driver drowsiness detection using deep learning algorithms.
+- 💞️ I’m looking to collaborate on python flask applications and machine learning and deep learning models.
+- 📫 You can reach me throgh different social media platfroms by clicking on below links. Regards
 
 
 [![alt text][1.1]][1]
