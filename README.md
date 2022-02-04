@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zubair Ahamd Khan, I am Software Engineer graduated from UET Peshawar in 2021.
-- 👀 I’m interested in python Flask web programming and machine learning/deep learning Algorithms.
-- 🌱 I’m currently learning Flask Api and also writing research paper on Driver drowsiness detection using deep learning algorithms.
-- 💞️ I’m looking to collaborate on python flask, machine learning and deep learning projects.
+- 👀 I’m interested in Python Flask and FastAPI web programming and machine learning/deep learning Algorithms.
+- 🌱 I’m currently learning Vue.js and also writing research paper on Driver drowsiness detection using deep learning algorithms.
+- 💞️ I’m looking to collaborate on Python Flask, FastAPI, Machine Learning and Deep Learning projects.
 - 📫 You can reach me throgh different social media platfroms by clicking on below links. 
 # Regards 
 # Zubair Ahmad
