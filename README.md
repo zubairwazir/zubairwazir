@@ -15,7 +15,7 @@ I love coding in Python :snake:. I work at [upwork](https://www.upwork.com/freel
 	<a href="https://www.linkedin.com/in/zubairwazir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/EngrZubairWazir/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/zubairwazir777/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.twitter.com/zubairwazir777/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.twitter.com/zubairwazir777/"><img src="https://i.ibb.co/brhdF22/icons8-twitter-circled-50.png" alt="Twitter"/></a>
 </p>
 
 ![alt text](./images/bottom.svg)
