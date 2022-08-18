@@ -3,7 +3,6 @@
 I love coding in Python :snake:. I work at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa) as a Python Developer and occasionally participate in hackathons.
 
 ⚡ Fun fact:
-- 👋 Hi, I’m Zubair Ahmad, I am Software Engineer graduated in 2021.
 - 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Machine Learning and AWS Cloud Services.
 - 🌱 I’m currently learning AWS ML tools and mathematics required for ML and Data Science.
 - :pencil2: I Write blogs/gists on GitHub on free days.
