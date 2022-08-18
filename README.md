@@ -1,24 +1,22 @@
-- 👋 Hi, I’m Zubair Ahamd Khan, I am Software Engineer graduated from UET Peshawar in 2021.
-- 👀 I’m interested in Python Flask and FastAPI web programming and machine learning/deep learning Algorithms.
-- 🌱 I’m currently learning Vue.js and also writing research paper on Driver drowsiness detection using deep learning algorithms.
-- 💞️ I’m looking to collaborate on Python Flask, FastAPI, Machine Learning and Deep Learning projects.
-- 📫 You can reach me throgh different social media platfroms by clicking on below links. 
-# Regards 
-# Zubair Ahmad
+![alt text](./images/top.png)
+
+I love coding in Python :snake:. I work at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa) as a Python Developer and occasionally participate in hackathons.
+
+⚡ Fun fact:
+- 👋 Hi, I’m Zubair Ahmad, I am Software Engineer graduated in 2021.
+- 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Machine Learning and AWS Cloud Services.
+- 🌱 I’m currently learning AWS ML tools and mathematics required for ML and Data Science.
+- :pencil2: I Write blogs/gists on GitHub on free days.
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[4.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/zubairwazir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/zubairwazir/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/EngrZubairWazir/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/zubairwazir777/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.twitter.com/zubairwazir777/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
-
-[1]: http://www.twitter.com/zubairwazir777
-[2]: http://www.facebook.com/EngrZubairWazir
-[3]: http://www.github.com/zubairwazir
-[4]: https://plus.google.com/+zubairwazir777
+![alt text](./images/bottom.svg)
