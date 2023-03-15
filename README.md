@@ -1,6 +1,6 @@
 ![alt text](./images/top.png)
 
-Welcome to my GitHub profile! I am currently working as an **AI trainee** at the **National Center of Artificial Intelligence (NCAI)**, where I am focusing on **AI** and **Data Science**. My ultimate goal is to become a **Certified Professional Data Scientist**, **AI Professional**, **Python Specialist**, and **Fullstack Developer**.
+Welcome to my GitHub profile! I am currently working as an **AI trainee** at the **National Center of Artificial Intelligence (NCAI)**, where I am focusing on **AI** and **Data Science**. My ultimate goal is to become a **Certified Professional Data Scientist**, **Python Specialist**, **AI Professional** and **Fullstack Developer**.
 
 I am actively pursuing these **certifications** through **Coursera**, where I am taking courses from top universities and industry leaders such as **IBM**, the **University of Michigan**, and **Deep Learning.ai**. I believe that continuous learning is essential to keep up with the ever-evolving tech industry and to stay at the forefront of innovation.
 
