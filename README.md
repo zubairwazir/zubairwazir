@@ -1,12 +1,19 @@
 ![alt text](./images/top.png)
 
-I love coding in Python :snake:. I work at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa) as a Python Developer and occasionally participate in hackathons.
+Welcome to my GitHub profile! I am currently working as an AI trainee at the National Center of Artificial Intelligence (NCAI), where I am focusing on AI, Data Science, Python, and backend development. My ultimate goal is to become a certified Professional Data Scientist, Backend Developer, Python Specialist, and AI Professional.
+
+I am actively pursuing these certifications through Coursera, where I am taking courses from top universities and industry leaders such as IBM, the University of Michigan, and Deep Learning.ai. I believe that continuous learning is essential to keep up with the ever-evolving tech industry and to stay at the forefront of innovation.
+
+I love coding in Python :snake:. Additionally, I work as a Data Scientist and Python Backend Developer at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa), where I use my expertise to develop innovative solutions for clients.
+
 
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Machine Learning and AWS Cloud Services.
-- 🌱 I’m currently learning AWS ML tools and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs/gists on GitHub on free days.
+- 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Data Science and AWS Cloud Services.
+- 🌱 I am always looking to work with like-minded individuals and contribute to innovative projects.
+- :pencil2: I regularly write professional articles on LinkedIn and GitHub gists to share my expertise on Python, Data Science.
 
+
+If you are interested in collaborating on a project or have any questions, please feel free to contact me. 
 
 
 ### Let's Connect :coffee:
