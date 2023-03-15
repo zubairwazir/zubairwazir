@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am currently working as an **AI trainee** at the **National Center of Artificial Intelligence (NCAI)**, where I am focusing on **AI** and **Data Science**. My ultimate goal is to become a **Certified Professional Data Scientist**, **Python Specialist**, **AI Professional** and **Fullstack Developer**.
 
-I am actively pursuing these **certifications** through **Coursera**, where I am taking courses from top universities and industry leaders such as **IBM**, the **University of Michigan**, and **Deep Learning.ai**. I believe that continuous learning is essential to keep up with the ever-evolving tech industry and to stay at the forefront of innovation.
+I am actively pursuing these **certifications** through **Coursera**, where I am taking courses from top universities and industry leaders such as **IBM**,  **University of Michigan**, and **DeepLearning.AI**. I believe that continuous learning is essential to keep up with the ever-evolving tech industry and to stay at the forefront of innovation.
 
 I love coding in Python :snake:. Additionally, I work as a **Data Scientist** and **Fullstack Developer** at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa), where I use my expertise to develop innovative solutions for clients.
 
@@ -10,7 +10,7 @@ I love coding in Python :snake:. Additionally, I work as a **Data Scientist** an
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Data Science and AWS Cloud Services.
 - 🌱 I am always looking to work with like-minded individuals and contribute to innovative projects.
-- :pencil2: I regularly write professional articles on LinkedIn and GitHub gists to share my expertise on Python, Data Science.
+- :pencil2: I regularly write Professional Articles on LinkedIn and Gists on Github to share my expertise on Python & Data Science.
 
 
 If you are interested in collaborating on a project or have any questions, please feel free to contact me. 
