@@ -1,19 +1,43 @@
 ![alt text](./images/top.png)
 
-Welcome to my GitHub profile! I am currently working as an **AI trainee** at the **National Center of Artificial Intelligence (NCAI)**, where I am focusing on **AI** and **Data Science**. My ultimate goal is to become a **Certified Professional Data Scientist**, **Python Specialist**, **AI Professional** and **Fullstack Developer**.
+# 👋 Welcome to my GitHub Profile!  
 
-I am actively pursuing these **certifications** through **Coursera**, where I am taking courses from top universities and industry leaders such as **IBM**,  **University of Michigan**, and **DeepLearning.AI**. I believe that continuous learning is essential to keep up with the ever-evolving tech industry and to stay at the forefront of innovation.
+I am a **Software Engineer** currently pursuing my **MSc in Information Technology with Data Analytics** at the **University of the West of Scotland (London Campus, UK)**.  
+My journey blends **academic research** with **real-world problem-solving**, as I aim to become a leading professional in **Data Science, AI, and Fullstack Development**.  
 
-I love coding in Python :snake:. Additionally, I work as a **Data Scientist** and **Fullstack Developer** at [upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa), where I use my expertise to develop innovative solutions for clients.
+Alongside my studies, I work as a **Top Rated Freelancer on [Upwork](https://www.upwork.com/freelancers/~01bc4409dfe41a26fa)**, where I design and deliver innovative solutions for global clients.  
 
+---
 
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python, Flask, FastAPI, Data Science and AWS Cloud Services.
-- 🌱 I am always looking to work with like-minded individuals and contribute to innovative projects.
-- :pencil2: I regularly write Professional Articles on LinkedIn and Gists on Github to share my expertise on Python & Data Science.
+## 🚀 Areas of Expertise  
+- 🧠 **Large Language Models (LLMs) & Generative AI**  
+- 📊 **Data Science & Data Analytics**  
+- 🤖 **Machine Learning (ML) & Deep Learning (DL)**  
+- 📝 **Context Engineering & Prompt Optimization**  
+- 💻 **Fullstack Development (Flask, FastAPI, Vus.js, Next.js)**  
+- ☁️ **Cloud Services (AWS, GCP, Azure)**  
+- 🐍 **Python Programming & Automation**  
 
+---
 
-If you are interested in collaborating on a project or have any questions, please feel free to contact me. 
+## 📚 Professional Growth  
+I am actively enhancing my expertise through my **MSc research work** and continuous learning in:  
+- AI-driven Data Analytics  
+- Applied Machine Learning  
+- Advanced Python Programming  
+- Cloud-native AI Solutions  
+
+---
+
+## ⚡ Fun Facts  
+- 👯 I’m looking to collaborate on projects using **Python, AI, Data Analytics, and Cloud Services**  
+- 🌱 Always open to working with like-minded individuals and contributing to **innovative AI projects**  
+- ✍️ I regularly share knowledge via **LinkedIn Articles** and **GitHub Gists**, focusing on **Python, AI, and Data Science**  
+
+---
+
+📩 **Let’s connect!**  
+If you are interested in collaborating or discussing ideas around **AI, Data Analytics, or Fullstack Development**, feel free to reach out.  
 
 
 ### Let's Connect :coffee:
